@@ -16,7 +16,6 @@ This repository includes:
 
 Not everything here is "finished". This repo currently reflects an **active, evolving project**.<br>
 ———
-<hr>
 
 ## Long-Term Vision
 Fiction2Reality is built with scale in mind.
@@ -28,7 +27,6 @@ The long-term goal is to evolve from:
 
 The ambition is not to create _rides_ or _attractions_, but **places**; spaces people can walk through, experience, explore, and remember.<br>
 ———
-<hr>
 
 ## Contributing & Collaboration
 Fiction2Reality is currently a small, curated effort, but collaboration will expand in the future.
@@ -40,7 +38,6 @@ If you’re interested in:
 
 ...keep an eye on the project, and/or reach out through official channels.<br>
 ———
-<hr>
 
 ## Official Links and Structured Data
 Official profiles, contact methods, and communities are managed in
@@ -57,7 +54,6 @@ Use `identity` only when the URL unambiguously represents Fiction2Reality
 itself. Do not use it for email addresses, communities, partner pages, or
 individual team members.<br>
 ———
-<hr>
 
 ## Website Links
 - Home: https://www.fiction2reality.com/
@@ -68,7 +64,6 @@ individual team members.<br>
 - Legal & attribution: https://www.fiction2reality.com/legal/
 - Sitemap: https://www.fiction2reality.com/site-map/
 ———
-<hr>
 
 ## Status
 **Active development.**  
