@@ -1,10 +1,10 @@
-# Fiction2Reality (F2R)
+# Fiction2Reality
 
-**[Fiction2Reality (F2R)](https://www.fiction2reality.com/)** is a creative, long-term venture exploring turning fictional spaces into **real places**.
+**[Fiction2Reality](https://www.fiction2reality.com/)** is a creative, long-term venture turning fictional worlds real.
 
 We turn fictional worlds into real experiences; first through digital media (images, videos, 3D environments), and ultimately toward fully immersive real-world installations.
 
-F2R is currently developing proof-of-concept work across several fictional domains.
+Fiction2Reality is currently developing proof-of-concept work across several fictional domains.<br>
 ———
 
 ## What This Repository Contains
@@ -14,8 +14,9 @@ This repository includes:
 - Media embeds
 - Experimental UI/UX 
 
-Not everything here is "finished". This repo currently reflects an **active, evolving project**.
+Not everything here is "finished". This repo currently reflects an **active, evolving project**.<br>
 ———
+<hr>
 
 ## Long-Term Vision
 Fiction2Reality is built with scale in mind.
@@ -25,8 +26,9 @@ The long-term goal is to evolve from:
 2. → **Smaller-scale interactive & spatial experiences**  
 3. → **Large-scale, fully immersive, to-scale, real-world recreations of fictional places**
 
-The ambition is not to create _rides_ or _attractions_, but **places**; spaces people can walk through, experience, explore, and remember.
+The ambition is not to create _rides_ or _attractions_, but **places**; spaces people can walk through, experience, explore, and remember.<br>
 ———
+<hr>
 
 ## Contributing & Collaboration
 Fiction2Reality is currently a small, curated effort, but collaboration will expand in the future.
@@ -36,8 +38,9 @@ If you’re interested in:
 - Cinematography 
 - Narrative stories/worldbuilding 
 
-...keep an eye on the project, and/or reach out through official channels.
+...keep an eye on the project, and/or reach out through official channels.<br>
 ———
+<hr>
 
 ## Official Links and Structured Data
 Official profiles, contact methods, and communities are managed in
@@ -52,19 +55,25 @@ relationship automatically.
 
 Use `identity` only when the URL unambiguously represents Fiction2Reality
 itself. Do not use it for email addresses, communities, partner pages, or
-individual team members.
+individual team members.<br>
 ———
+<hr>
 
 ## Website Links
 - Home: https://www.fiction2reality.com/
-
+- Videos: https://www.fiction2reality.com/videos/
+- Partners: https://www.fiction2reality.com/partners/
+- FAQ: https://www.fiction2reality.com/faq/
+- Contact: https://www.fiction2reality.com/contact/
+- Legal & attribution: https://www.fiction2reality.com/legal/
+- Sitemap: https://www.fiction2reality.com/site-map/
 ———
+<hr>
 
 ## Status
 **Active development.**  
 Early-stage, experimental, and intentionally iterative.
 
-Fiction2Reality is less about shipping fast — and more about building something that _feels real_.
-—
+Fiction2Reality is less about shipping fast, and more about building something that _feels real_.
 
-_Fiction2Reality: turning fictional places into real spaces._
+_Fiction2Reality: Turning Fictional Worlds Real._
