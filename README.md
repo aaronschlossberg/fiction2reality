@@ -46,7 +46,7 @@ If you’re interested in:
 - FAQ: https://www.fiction2reality.com/faq/
 - Contact: https://www.fiction2reality.com/contact/
 - Legal & attribution: https://www.fiction2reality.com/legal/
-- Sitemap: https://www.fiction2reality.com/site-map/
+- Sitemap: https://www.fiction2reality.com/site-map/<br>
 —————————
 
 ## Status
